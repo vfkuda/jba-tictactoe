@@ -1,6 +1,7 @@
 package tictactoe;
 
 public class Game {
+//    TODO: refactor me , by moving these constants some ware else
     public static final char STATUS_DRAW = '=';
     public static final char STATUS_GO = '?';
     private Player[] players = new Player[2];
